@@ -1,0 +1,17 @@
+{
+  "companies": [
+    {
+      "company": "N/A",
+      "title": "Junior Software Developer",
+      "duration": "2024 - Present",
+      "tasks": [
+        "Developed and maintained web applications",
+        "Collaborated with cross-functional teams",
+        "Database management and optimization",
+        "Implemented API integrations",
+        "Conducted software testing and debugging",
+        "Participated in code refactoring and optimization"
+      ]
+    }
+  ]
+}

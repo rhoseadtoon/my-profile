@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "25 Nov 2001" },
+    {
+      "website": "<a target='blank' href='http://rhose-dinmar-adtoon-resume.s3-website-us-east-1.amazonaws.com'>http://rhose-dinmar-adtoon-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 931-921-5284" },
+    { "address": "Libertad, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 22 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>adtoonrhose@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Libertad, Tubigon, Bohol, Philippines",
+    "+63 906-145-6801",
+    "<a href='mailto:someone@example.com'>adtoonrhose@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021 - present",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2013 - 2020",
+      "school": "Salus Institute of Technology",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2007 - 2013",
+      "school": "Libertad Elementary School",
+      "address": "Libetad, Tubigon, Bohol"
+    }
+  ]
+}
